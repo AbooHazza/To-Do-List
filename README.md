@@ -13,12 +13,16 @@ Simple To Do List project using Linked List and Classes in C++.
 - Pointers
 - Dynamic Memory Allocation
 
-## Project Files
-- ListToDo.cpp  // Full Project 
-- main.cpp
-- ToDoList.h
-- ToDoList.cpp
+## Project Structure
 
+```text
+To-Do-List
+│
+├── ListToDo.cpp      // Full Project
+├── main.cpp
+├── ToDoList.h
+└── ToDoList.cpp
+```
 
 ## Language
 C++
