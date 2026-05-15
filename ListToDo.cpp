@@ -63,7 +63,7 @@ void showTasks()
 
     Node*temp = head ; 
     int i = 0;
-cout<<" ====== Task's ======= "<<endl;
+
     while(temp != NULL)
     {
      cout<<i+1<<": "<< temp->task<<" ."<<endl;
@@ -132,9 +132,6 @@ cout<<" ====== Task's ======= "<<endl;
 
 
 };
-
-
-
 
 
 
